@@ -1,4 +1,4 @@
 # git-primer2
 Git Workshop exercise
 
-# Hi Lulama
+# Hi Lulama, How are you?
